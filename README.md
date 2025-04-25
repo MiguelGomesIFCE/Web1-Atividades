@@ -17,7 +17,7 @@
 [Atividade 05](https://miguelgomesifce.github.io/Atividade05/)
 
 
-[Atividade 06](https://miguelgomesifce.github.io/Atividade05/)
+[Atividade 06](https://miguelgomesifce.github.io/Atividade06/)
 
 
 [Atividade 07](https://miguelgomesifce.github.io/Atividade07/)
